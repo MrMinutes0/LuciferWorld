@@ -3,7 +3,7 @@ public class ContraGame implements GamingConsole {
 
     @Override
     public void up() {
-        System.out.println("Shoot and jfjkfdrbkllkfgdrump");
+        System.out.println("Shoot and jump");
     }
     @Override
     public void down() {
